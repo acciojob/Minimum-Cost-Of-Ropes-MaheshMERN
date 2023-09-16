@@ -29,5 +29,5 @@ let result = function minCostOfRopes(ropes) {
   return totalCost;
 }
  result(ropes)
-document.getElementById("result").innerHTML = output;
+document.getElementById("result").innerHTML =output;
 }  
